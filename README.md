@@ -1,5 +1,6 @@
 This is one of my first task on web development.
 
+USED STACK : HTML,CSS.
 
 
 Screenshots of the project ⬇️
